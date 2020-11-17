@@ -2,4 +2,4 @@
 
 `In progress... !!!` 
 
-![home-page-screenshot](../reactapp/src/images/home-page.png)
+![home-page-screenshot](https://raw.githubusercontent.com/g-rohit/bose-concept-website/main/src/images/home-page.png)
