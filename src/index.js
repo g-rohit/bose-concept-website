@@ -1,14 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import Header from './components/header/header';
-import reportWebVitals from './reportWebVitals';
-import Home from "./components/homePage/home";
+import App from './App.js';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Header />
-    <Home/>
+  <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
