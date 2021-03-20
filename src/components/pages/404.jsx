@@ -11,7 +11,7 @@ const PageNotFound = () => {
    <h3> <a href="/" className="btn-primary">Go Back to Home <svg
               xmlns="http://www.w3.org/2000/svg"
               width="3vh"
-              height="auto"
+              height="3vh"
               fill="currentColor"
               viewBox="0 0 16 16"
             style={{verticalAlign:"middle"}}
