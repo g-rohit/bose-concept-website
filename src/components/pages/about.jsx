@@ -1,8 +1,11 @@
 import React from "react";
-import Header from "./header";
+import Header from "../header";
 
-import "./app.css";
-import Footer from "./footer";
+// import "../css/style.min.css";
+
+// import "./app.css"; 
+
+import Footer from "../footer";
 
 const About = () => {
   return (

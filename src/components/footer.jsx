@@ -1,7 +1,8 @@
+/* eslint-disable react/jsx-no-target-blank */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
-import "./app.css";
-import { Link } from "react-router-dom";
+// import '../css/style.min.css';
+// import "./pages/app.css";
 
 export function Footer() {
   return (
@@ -9,7 +10,7 @@ export function Footer() {
       <div>Copyright 2021 </div>
       <div>
         Powered by{" "}
-        <a href="https://grohit.com" target="_blank">
+        <a href="https://grohit.com" target="_blank" className="link">
           G Rohit
         </a>
       </div>

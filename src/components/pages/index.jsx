@@ -1,10 +1,10 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import headphones from '../../images/red-headphones.png';
-import Header from "./header";
-import Footer from "./footer";
-
-import './app.css';
+import Header from "../header";
+import Footer from "../footer";
+import "../css/style.min.css";
+// import "./app.css"; 
 import {  Link } from "react-router-dom";
 
 

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import "./App.css";
+// import '../css/style.min.css';
 import "./index.css";
 import Home from "./components/pages";
 
@@ -7,7 +7,6 @@ import {
   BrowserRouter as Router,
   Route,
   Switch,
-  Link,
   Redirect,
 } from "react-router-dom";
 import About from "./components/pages/about";

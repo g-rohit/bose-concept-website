@@ -1,8 +1,9 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
-import logo from "../../images/bose_logo_white.png";
-import './app.css';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import logo from "../images/bose_logo_white.png";
+// import '../css/style.min.css';
+// import "./pages/app.css";
+import {  Link } from "react-router-dom";
 
 export function Header() {
   return (
