@@ -10,7 +10,7 @@ export function Footer() {
       <div>Copyright 2021 </div>
       <div>
         Powered by{" "}
-        <a href="https://grohit.com" target="_blank" className="link">
+        <a href="https://grohit.com?ref=https://bose-concept-website.vercel.app/" target="_blank" className="link">
           G Rohit
         </a>
       </div>

@@ -197,7 +197,11 @@ img {
 
         div {
             /* margin: 1em; */
-            width: 42%;
+            width: 49%;
+
+            img {
+                max-width: none;
+            }
         }
     }
 }
@@ -347,6 +351,8 @@ footer {
     #about>.content>div {
         margin: 0 auto;
         width: 100%;
+
+       
     }
 
 

@@ -212,7 +212,11 @@ img {
 
 #about .content div {
   /* margin: 1em; */
-  width: 42%;
+  width: 49%;
+}
+
+#about .content div img {
+  max-width: none;
 }
 
 /* Products page */
