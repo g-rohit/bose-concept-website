@@ -180,7 +180,7 @@ img {
 }
 
 .wrapper {
-  max-width: 1440px;
+  max-width: 1500px;
   padding: 16px;
   width: 100%;
   margin: 0 auto;
@@ -236,11 +236,25 @@ img {
 
 .each-product-card {
   background: #ececec;
-  margin: 6px;
+  margin: 10px;
+  -webkit-transition: all ease 300ms;
+  transition: all ease 300ms;
 }
 
 .each-product-card .img-container {
   max-width: 467.556px;
+}
+
+.each-product-card:hover {
+  border-radius: 10px;
+  -webkit-transform: translateY(-5px);
+          transform: translateY(-5px);
+  -webkit-box-shadow: 4px 8px 10px #00000050;
+          box-shadow: 4px 8px 10px #00000050;
+}
+
+.each-product-card:hover .each-card-title {
+  color: #d72323;
 }
 
 .card-content {

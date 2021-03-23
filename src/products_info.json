@@ -1,0 +1,52 @@
+[
+  {
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "title": "Yellow Headphones",
+    "price": "₹12,000"
+  },
+  {
+    "thumbnail": "https://images.unsplash.com/photo-1484704849700-f032a568e944?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "title": "Golden headphones",
+    "price": "₹25,000"
+  },
+  {
+    "thumbnail": "https://images.unsplash.com/photo-1585386726088-9a4c86e49957?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+    "title": "Red headphones",
+    "price": "₹37,000"
+  },
+  {
+    "thumbnail": "https://dummyimage.com/16:9x263/",
+    "title": "Some headphones - 1",
+    "price": "₹37,000"
+  },
+  {
+    "thumbnail": "https://dummyimage.com/16:9x263/",
+    "title": "Some headphones - 2",
+    "price": "₹37,000"
+  },
+  {
+    "thumbnail": "https://dummyimage.com/16:9x263/",
+    "title": "Some headphones - 3",
+    "price": "₹37,000"
+  },
+  {
+    "thumbnail": "https://dummyimage.com/16:9x263/",
+    "title": "Some headphones - 3",
+    "price": "₹37,000"
+  },
+  {
+    "thumbnail": "https://dummyimage.com/16:9x263/",
+    "title": "Some headphones - 3",
+    "price": "₹37,000"
+  },
+  {
+    "thumbnail": "https://dummyimage.com/16:9x263/",
+    "title": "Some headphones - 3",
+    "price": "₹37,000"
+  },
+  {
+    "thumbnail": "https://dummyimage.com/16:9x263/",
+    "title": "Some headphones - 3",
+    "price": "₹37,000"
+  }
+]
